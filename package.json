@@ -1,0 +1,17 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec \"mocha -R min\""
+  },
+  "keywords": [],
+  "author": "Jeremy Xu",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mongoose": "^5.1.4",
+    "nodemon": "^1.17.5"
+  }
+}
